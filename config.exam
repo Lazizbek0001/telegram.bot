@@ -1,0 +1,6 @@
+create new file config.py
+
+API_TOKEN = "Your ip token"
+
+admin = "Your id"
+
